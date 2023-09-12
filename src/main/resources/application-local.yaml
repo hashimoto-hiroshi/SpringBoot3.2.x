@@ -1,0 +1,3 @@
+spring:
+  whoami: "I'm application-local.yaml"
+  test-value: "value from applicatoin-local.yaml"

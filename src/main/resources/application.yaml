@@ -1,0 +1,3 @@
+spring:
+  whoami: "I'm application.yaml"
+  common-value: "This value is applied for all profiles."
